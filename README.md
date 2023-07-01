@@ -1,13 +1,8 @@
-# Hi there! 👋 I'm Akash Kshirasagr - Your Versatile Developer and Data Scientist! 🧑‍💻🚀
-
-![developer-image](https://example.com/developer-image.png)
-
+# Hi there! <img alt="" src="https://media1.tenor.com/images/e5a6c8fff7422d5a137feade378401ac/tenor.gif?itemid=5530137" width="50px"> I'm Akash Kshirasagr - Your Versatile Developer and Data Scientist! 🧑‍💻🚀
+<img src="https://github.com/somanathkshirsagar/somanathkshirsagar/blob/main/assets/icons/NvL.gif" width="880" height="400" alt="Alt Text">
 Welcome to my GitHub profile! Here, you'll find an overview of my skills, expertise, and a glimpse into my diverse world of technology. Whether it's Java development, software engineering, or data science, I'm here to create innovative solutions and make a positive impact. Feel free to explore and reach out to me if you have any questions or need assistance with your projects. Let's embark on a journey of coding excellence! 💡
 
 ## About Me ℹ️
-
-![profile-image](https://example.com/profile-image.png)
-
 I'm Akash Kshirasagr, a versatile developer and data scientist with a strong educational background. I completed my Bachelor's degree in Computer Application (BCA) from Vidya Pratishthan College, Baramati, and further expanded my knowledge by pursuing a Master's degree in Computer Application from JSPM Rajarshi Shahu College Of Engineering. With a solid foundation in computer science, I'm equipped to tackle complex challenges and build robust solutions. Let's code our way to success! 💪
 
 ## Skills and Expertise 🤓
