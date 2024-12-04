@@ -1,176 +1,105 @@
-<p align="left">
- <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20github%20profile%20I%20am%20full-stack%20developer;&font=Rancho&center=false&width=404&height=50&color=#B282E9&vCenter=false&size=100"></a>
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Welcome+to+My+GitHub!;I+am+a+Data+Scientist+and+Generative+AI+Engineer;&font=Rancho&center=true&width=650&height=70&color=00D7FF&vCenter=true&size=40"></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-# Hi there! <img alt="" src="https://media1.tenor.com/images/e5a6c8fff7422d5a137feade378401ac/tenor.gif?itemid=5530137" width="50px"> I'm Akash Kshirasagr - Your Versatile Developer and Data Scientist! 🧑‍💻🚀
-<img src="https://github.com/somanathkshirsagar/somanathkshirsagar/blob/main/assets/icons/NvL.gif" width="880" height="400" alt="Alt Text">
-Welcome to my GitHub profile! Here, you'll find an overview of my skills, expertise, and a glimpse into my diverse world of technology. Whether it's Java development, software engineering, or data science, I'm here to create innovative solutions and make a positive impact. Feel free to explore and reach out to me if you have any questions or need assistance with your projects. Let's embark on a journey of coding excellence! 💡
+<h1 align="center">Hi there! 👋 I'm Somnath Kshirsagar</h1>
+<h3 align="center">Data Scientist | Generative AI Engineer | ML Enthusiast</h3>
 
-## About Me ℹ️
-I'm Akash Kshirsagar, a versatile developer and data scientist with a strong educational background. I completed my Bachelor's degree in Computer Application (BCA) from Vidya Pratishthan College, Baramati, and further expanded my knowledge by pursuing a Master's degree in Computer Application from JSPM Rajarshi Shahu College Of Engineering. With a solid foundation in computer science, I'm equipped to tackle complex challenges and build robust solutions. Let's code our way to success! 💪
-
-## Skills and Expertise 🤓
-
-Here's a list of my skills and areas of expertise that make me a versatile technologist:
-
-- **Java** ☕️: Java is my passion! I have extensive experience in Java development, leveraging its object-oriented principles and vast ecosystem of libraries and frameworks. From building enterprise applications to crafting efficient algorithms, Java is my go-to language for developing robust software solutions.
-
-- **Python** 🐍: Python is another language that I'm highly proficient in. Its simplicity and versatility make it ideal for data analysis, machine learning, and web development. I leverage Python's extensive libraries like NumPy, Pandas, and Scikit-learn for a wide range of applications.
-
-- **C++** 🖥️: I have a strong command over C++ programming, a high-performance language. I use C++ for building efficient algorithms, system-level programming, and developing software that requires low-level control.
-
-- **C** 📡: C is a fundamental language that I'm skilled in. I utilize C for system programming, embedded systems, and building efficient algorithms.
-
-- **Go Programming Language** 🐹: I'm also proficient in Go, a modern and efficient programming language. Go is known for its simplicity, concurrency support, and scalability, making it an excellent choice for building high-performance software systems.
-
-- **Data Structures and Algorithms** 📚: I have a strong understanding of data structures and algorithms, allowing me to develop efficient and optimized code. I apply these concepts to solve complex problems and improve the performance of software applications.
-
-- **Linux** 🐧: I'm experienced in working with Linux-based systems, utilizing its command-line interface, shell scripting, and system administration. I'm comfortable developing and deploying applications in Linux environments.
-
-- **Machine Learning** 🤖: I have a solid foundation in machine learning, encompassing various algorithms such as regression, classification, clustering, and ensemble methods. I leverage machine learning techniques to extract insights and make predictions from complex datasets.
-
-- **Deep Learning** 🧠: Deep learning is my passion! I specialize in building and training neural networks using frameworks like TensorFlow and PyTorch. I apply deep learning to tasks such as image recognition, natural language processing, and sequence generation.
-
-- **Natural Language Processing (NLP)** 🗣️: I possess expertise in NLP, allowing me to work with unstructured text data effectively. Sentiment analysis, text classification, named entity recognition,
-
- and language generation are some of the NLP tasks I excel in.
-
-- **SQL and Database Management** 📊: I have hands-on experience working with SQL databases, enabling me to efficiently store, query, and analyze structured data. I'm proficient in writing complex SQL queries and optimizing database performance to extract meaningful information.
-
-- **Power BI** 📈: I have mastered Power BI, a powerful business intelligence tool, to create visually appealing and interactive dashboards and reports. By transforming raw data into compelling visualizations, I help stakeholders make data-driven decisions and gain actionable insights.
-
-- **Docker** 🐳: I have knowledge of containerization using Docker, allowing for seamless deployment and scalability of applications across different environments. By containerizing software and services, I ensure consistency, reproducibility, and easy management.
-
-- **API Development** 🌐: I'm skilled in developing APIs, including RESTful APIs and frameworks like FastAPI. This enables seamless integration of applications, efficient data exchange, and building interactive web services.
-
-- **Postman** 📮: I'm proficient in using Postman, a popular API development and testing tool. With Postman, I ensure the smooth integration and functionality of APIs within applications.
-
-- **AWS for Cloud Computing** ☁️: I'm actively learning and leveraging Amazon Web Services (AWS) for cloud-based solutions. With services like EC2, S3, and Lambda, I harness the power and scalability of the cloud to deploy and manage applications.
-
-## Data Science and Software Projects 🚀
-
-Throughout my journey, I have undertaken various projects that showcase my skills and passion for technology:
-
-- Developed software applications and web services using Java, Python, and C++ for industries like finance, healthcare, and e-commerce.
-
-- Implemented machine learning models for tasks like sentiment analysis, customer segmentation, and demand forecasting.
-
-- Created deep learning models for image recognition, natural language processing, and anomaly detection.
-
-- Built data pipelines to collect, preprocess, and analyze large datasets, utilizing technologies like Python, SQL, and Hadoop.
-
-- Collaborated with cross-functional teams to develop and deploy data-driven solutions that improved business processes and decision-making.
-
-## Professional Experience and Internship 💼
-
-- Internship: I had the privilege of completing a 6-month internship at iNeuron.ai, where I worked on cutting-edge projects and gained hands-on experience in various aspects of data science and machine learning. This opportunity allowed me to apply my skills in a real-world setting and collaborate with industry professionals.
-
-## Let's Connect! 🤝
-
-I'm always eager to collaborate, learn, and share my expertise with fellow technologists. Whether you have questions, need assistance with your projects, or simply want to connect, feel free to reach out to me using the following channels:
-
-- Email: 📧 [aakashkshirsagar2000@gmail.com](aakashkshirsagar2000@gmail.com)
-- LinkedIn: 🔗 [Akash Kshirasagr](https://www.linkedin.com/in/akash-kshirsagar-626a9222a/)
-- Twitter: 🐦 [@AkashDev](https://twitter.com/AkashDev)
-
-Let's innovate, build, and shape the future of technology together! 🚀💻
+<p align="center">
+  <img src="https://github.com/somanathkshirsagar/somanathkshirsagar/blob/main/assets/icons/NvL.gif" width="600" height="300" alt="Welcome GIF">
+</p>
 
 ---
 
-*"Success is not the key to happiness. Happiness is the key to success. If you love what you do, you will be successful."* - Albert Schweitzer
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Full-Stack Development</h2>
+### 🧑‍💻 About Me
 
-- <b>Languages</b> : Golang, Java, Python, JavaScript, TypeScript
-- <b>Web Frontend</b> : React.js, Next.js, Angular
-- <b>Backend</b> : Node.js / Express, Golang, Java / Spring / Spring Boot, Python / Django / Flask / FastAPI
-- <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- <b>Libraries</b> : RefluxJS, React, React Redux, Vite, Next.js, jQuery UI, Bootstrap, jQuery, Material-TailwindCSS, Material UI, Antd, Backbone.js, HTML5 Canvas
-- <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
-- <b>Tools</b> : Git, Webpack, Atom
-- <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
+I am a passionate **Data Scientist** and **Generative AI Engineer** with a robust foundation in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Generative AI**. My expertise lies in transforming complex data into actionable insights and deploying scalable AI-driven solutions.
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=camera.gif" width ="25"> Video Streaming & CV & AI</h2>
+- 🎓 **Education**:
+  - **Master's in Data Science**: Fergusson College, India (CGPA: 8.60/10)
+  - **Bachelor of Computer Science**: University of Pune, India (CGPA: 6.55/10)
+- 🌐 **Languages**: English, Hindi, Marathi
+- ✨ **Philosophy**: Leveraging AI to create meaningful and impactful solutions.
 
-- <b>Libraries</b> : FFmpeg, Gstreamer, OpenCV
-- <b>Codecs & Protocols</b> : H.264/265, VP8/9 | HLS, MPEG-DASH, RTSP, RTMP, WebRTC, SRT
-- <b>Servers</b> : AWS Elemental, Kinesis Video Stream, RED5, Wowza, Nginx
-- <b>Gen AI</b> : ChatGPT, GPT-4, LangChain, Stable Diffusion, Midjourney, DALL-E, Gemini, LLaMA, Falcon
+---
 
-## Languages & Tools
+### 🔧 Skills & Expertise
 
-<h3 align="left">Front-end</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=jquery,nextjs,tailwindcss" />
-   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  </a>
-</p>
-<h3 align="left">Backend</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,golang,java,python,django,flask,spring" />
-  </a>
-</p>
-<h3 align="left">Mobile</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter" />
-    <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
-  </a>
-</p>
-<h3 align="left">DataBase</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=firebase,postgres,sqlite" />
-  </a>
-</p>
-<h3 align="left">Tools</h3>
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio,vscode" />
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-  </a>
-</p>
+#### **Core Skills**
+- **Programming Languages**: Python, SQL
+- **AI/ML Expertise**: Generative AI, Machine Learning, Deep Learning, NLP
+- **Frameworks & Libraries**: TensorFlow, PyTorch, Keras, Hugging Face, LangChain
+- **Visualization Tools**: Power BI, Matplotlib, Seaborn
+- **Cloud Technologies**: AWS (EC2, S3, RDS), Docker, CI/CD Pipelines
 
+#### **Machine Learning Models**
+- **Supervised Learning**: Linear Regression, Random Forest, Decision Trees
+- **Deep Learning**: CNN, RNN, LSTM, Autoencoders
+- **NLP**: BERT, GPT, Named Entity Recognition, Tokenization
 
-## Profile Views:
-<!--
+#### **Tools & Technologies**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
+
+---
+
+### 🏆 Professional Experience
+
+#### **Hindgreco | Data Scientist** *(Jan 2024 – Present)*
+- Built a **real-time waste detection model** using YOLOv8, improving categorization efficiency by 30%.
+- Deployed custom AI chatbots, reducing customer service response time by 15%.
+- Boosted business development by 20% through advanced data scraping and analysis.
+
+#### **NYX.today | Generative AI Intern** *(Sept 2023 – Feb 2024)*
+- Enhanced AI models for **text-to-image** and **image-to-image** tasks using Hugging Face and LangChain.
+- Automated workflows with Python and AWS, increasing efficiency by 25%.
+
+#### **ERP Launchpad | Data Science Intern** *(Jan 2023 – Aug 2023)*
+- Created interactive dashboards using Power BI to drive business decisions.
+- Optimized data models, improving operational efficiency by 15%.
+
+---
+
+### 💡 Key Projects
+
+#### **LeastSquare** [🔗 Live Demo](https://leastsquare-yv4q.onrender.com/) | [📂 GitHub Repo](#)
+- Streamlit WebApp for predicting used car prices using **Lasso Regression** and **Linear Regression**.
+- Built with a CI/CD pipeline, Dockerized, and deployed on Render.
+
+#### **BagOfVectors** [🔗 Live Demo](https://bagofvectors.onrender.com/) | [📂 GitHub Repo](#)
+- NLP-based app detecting fraudulent job postings using Spacy and TF-IDF vectorization.
+- High-accuracy detection models ensure secure job market navigation.
+
+#### **NLP to SQL Model** [🔗 Live Demo](https://nlptosql-yrooh3gostfxtqqppqcmqs.streamlit.app/) | [📂 GitHub Repo](#)
+- Converts natural language queries into SQL commands using LangChain.
+- Integrated with MySQL and AWS RDS for scalable database queries.
+
+---
+
+### 📜 Certifications
+- Practical Data Science on AWS – Coursera
+- Foundational Generative AI – iNeuron.ai
+- Python Programming Specialization – Coursera
+
+---
+
+### 🤝 Let's Connect
+- 📧 **Email**: somanathtk198@gmail.com
+- 🔗 **LinkedIn**: [Somnath Kshirsagar](https://www.linkedin.com/in/somnath-kshirsagar-b73ba2212/)
+- 🐦 **Twitter**: [@Somnath_AI](#)
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-    <a href="https://visitcount.itsvg.in/api?id=danieleverest&label=Profile%20Views&color=6&icon=1&pretty=true">
-        <img src="https://visitcount.itsvg.in/api?id=danieleverest&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=somanathkshirsagar&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somanathkshirsagar&layout=compact&theme=radical" alt="Top Languages">
 </p>
- -->
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=coolenergy&label=Profile%20views&color=0e75b6&style=flat" alt="coolenergy" /> 
-<!-- ![](https://komarev.com/ghpvc/?username=danieleverest) -->
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
- <img alt="Profile followers" src="https://img.shields.io/github/followers/danieleverest"> -->
 
+---
 
+**"The journey of a thousand miles begins with a single step." – Lao Tzu**
